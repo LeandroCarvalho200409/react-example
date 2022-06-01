@@ -6,7 +6,7 @@ import {useState, useEffect} from 'react';
 
 function Home() {
   return (
-    <div>Home - Github Pages</div>
+    <div>Home - Github Pages 2</div>
   )
 }
 
